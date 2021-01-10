@@ -1,0 +1,49 @@
+.layui-footer {
+    text-align: center;
+}
+
+.iconfont {
+    padding-right: 8px;
+}
+
+.layui-icon {
+    margin-right: 10px;
+    padding-left: 15px;
+}
+
+iframe {
+    width: 100%;
+    height: 100%;
+}
+
+.layui-body {
+    overflow: hidden;
+}
+
+a {
+    transition: none !important;
+}
+
+.usernamenike {
+    height: 60px;
+    line-height: 60px;
+    text-align: center;
+    user-select: none;
+}
+
+#linebott {
+    border-bottom: 1px solid#c4c5c9;
+}
+
+.nike-avater {
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    background-color: #6e6e;
+    border-radius: 50%;
+    line-height: 30px;
+    margin-right: 10px;
+    font-size: 20px;
+    position: relative;
+    top: 2px;
+}
